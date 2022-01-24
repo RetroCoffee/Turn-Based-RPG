@@ -5,8 +5,8 @@ It is currently a text-based game but there is future plans to update the game s
 
 Run in shell with one of the following:  
 
-{repo location}  `python` main.py  
+{repo location}  `python` start_game.py  
   
-{repo location} `python3` main.py  
+{repo location} `python3` start_game.py  
 
-{repo location} `python` -m main
+{repo location} `python` -m start_game
