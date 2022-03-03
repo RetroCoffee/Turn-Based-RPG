@@ -1,2 +1,4 @@
+.venv
 resources/
+.python-version
 .replit
